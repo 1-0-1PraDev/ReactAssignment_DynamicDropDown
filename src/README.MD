@@ -23,7 +23,7 @@ A dynamic and reusable segment form builder application that allows users to sel
 
 ## Demo
 
-![Segment Form Demo](#demo url) (https://res-console.cloudinary.com/dxcdce5yf/thumbnails/v1/image/upload/v1725783413/aW1hZ2VfcHhya3Bs/drilldown)
+![Segment Form Demo](#https://res-console.cloudinary.com/dxcdce5yf/thumbnails/v1/image/upload/v1725783413/aW1hZ2VfcHhya3Bs/drilldown)
 
 ## Technologies Used
 
